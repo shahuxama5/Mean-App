@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PostCreateComponent implements OnInit {
 
-  newPost = 'No Content';
+  newPost = 'No Content Here';
   enteredValue = 'Nothing';
 
   constructor() { }
